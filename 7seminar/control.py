@@ -42,3 +42,6 @@ def choice_todo():
             print(item[0].center(20), item[1].center(20), item[2].center(15), item[3].center(30))
         else:
             print("Данные не обнаружены")
+
+
+            
